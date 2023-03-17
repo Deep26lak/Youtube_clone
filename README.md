@@ -1,0 +1,3 @@
+# Youtube_clone
+Hy there , in this project i made a exect youtube replica using html and css only from scratch.
+in future i'll be uploading my project that you can use....
